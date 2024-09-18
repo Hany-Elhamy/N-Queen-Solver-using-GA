@@ -14,3 +14,5 @@ Project Scope: The project involves exploring multiple algorithms to efficiently
 
 MY Role:
 Designed an intelligent system to solve the N-Queens problem for various board sizes. Implemented a genetic algorithm to efficiently find solutions while ensuring no two queens threaten each other on the chessboard
+Created the GUI for the game.
+Designed a flowchart to explain the algorithm’s workflow
